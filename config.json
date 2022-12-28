@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/flask-tut",
+    "prod_uri":"mysql://root:@localhost/flask-tut",
+    "fb_url":"https://facebook.com/wordpress",
+    "tw_url":"https://twitter.com/wordpress",
+    "gh_url": "https://github.com/wordpress",
+    "blog_name": "Fountainhead",
+    "title": "Thinking, Innovating, and Changing",
+    "tag_line": "Transforming your ideas",
+    "gmail-user":"livehard77@gmail.com",
+    "gmail-password":"xxxxxxxxxxxx",
+    "about_text1": "My work is to find a story hiding behind a lot of noisy numbers. Sometimes, I misinterpret the story, sometimes it remains a mystery, but whenever I unearth the actual story, that little part of my work is ravishing.",
+    "about_text2": "Things I know:- My strength is Mathematics. I have a decent knowledge of probability, statistics, linear algebra, calculus, machine learning algorithms, like linear regression, logistic regression, support vector machine, K-nearest neighbors, decision trees, random forest, naïve Bayes, ensemble learning, dimensionality reduction, model processing, parameter hyper-tuning, feature selection, and neural networks.",
+    "about_text3": "I can code on Python and Excel VBA. I am comfortable with python libraries Like NumPy, pandas, scikit learn, Matplotlib, seaborn, Selenium, plotly, RE, TensorFlow, flask framework, etc. I can also work on data visualization tools like Tableau, and Power BI as well. Most of my work revolves around natural language processing and classification problems.",
+    "no_of_posts": 4,
+    "login_image":"login.svg",
+    "admin_user":"nishant",
+    "admin_password": "qwerty",
+    "upload_location":"C:\\Users\\Nishant.Chauhan\\OneDrive - Everest Group\\Documents\\Tools\\Flask-Tut\\static"
+
+
+  }
+
+}
